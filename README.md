@@ -1,4 +1,6 @@
-# Open Source Ideas [![Slack](https://opensourceideas.herokuapp.com/badge.svg)](https://opensourceideas.herokuapp.com)
+# Open Source Ideas - for mobility
+
+I'm working on this but will be updating soon - ish.
 
 #### [View completed projects here!](#completed-hall-of-fame)
 
